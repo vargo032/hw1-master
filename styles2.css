@@ -1,0 +1,29 @@
+body {
+  font-family: "FINGBANGER", sans-serif;
+  width: 500px;
+  margin: 10px auto;
+  padding: 10px;
+}
+img {
+  /*width: 150px;*/
+  /*box-shadow: 8px 8px 4px #AAA;*/
+  /*float: right;*/
+}
+h1 {
+  padding: 50px;
+}
+figure  {
+  padding: 25px;
+}
+.header {
+  background: #EEE;
+  /*padding: 14px;*/
+  /*border-radius: 15px;*/
+}
+
+p {
+  border-bottom: solid 4px gray;
+  padding-bottom: 12px;
+  padding: 10px;
+  /*border: 1px solid black;*/
+}
